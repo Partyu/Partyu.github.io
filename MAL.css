@@ -61,3 +61,11 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Usakame Special*/
+td.td1 span#tagLinks34615:after, td.td2 span#tagLinks34615:after{
+content: "\A Focuses on best girl and girl-with-good-design, but unfortunately still boring.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
