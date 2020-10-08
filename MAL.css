@@ -5,3 +5,11 @@ content: ", while watching this I got distracted by MAL tags, this is the fruit 
 color: #3b7ddb;
 font-size: 14px;
 }
+
+/*Hisone to Maso-tan Digest Douga*/
+td.td1 span#tagLinks39448:after, td.td2 span#tagLinks39448:after{
+content: "Pretty interesting 'animation' style. Aoki Toshinao's art is very cute and it's funny that the same dude narrates and voices everything.";
+
+color: #3b7ddb;
+font-size: 14px;
+}
