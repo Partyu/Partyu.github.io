@@ -1,7 +1,7 @@
 /*Bakemono no Ko*/
 td.td1 span#tagLinks28805:after, td.td2 span#tagLinks28805:after{
-content: ", while watching this I got distracted by MAL tags, this is the fruit of my efforts";
-
+content: "\A while watching this I got distracted by MAL tags, this is the fruit of my efforts";
+white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
