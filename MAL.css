@@ -22,10 +22,17 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*K-On!!: Ura-On!!*/
+td.td1 span#tagLinks9203:after, td.td2 span#tagLinks9203:after{
+content: "\A Probably the lowest resolution anime I've ever watched. The keions are still cute though :') except Yui and Sawako, they're kind of horrifying \A The way they animate the girls just being blobs and blobbing around lol. Talk about squish and stretch \A Quintuple Azunyan. Azunyanyanyanyanyan. \A Please let Mugi conquer the world.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Teekyuu 9*/
-35370
-td.td1 span#tagLinks335370:after, td.td2 span#tagLinks335370:after{
-content: "\A That ED sure is something. \A \"If you're worried about nature, mankind going extinct is the best solution.\" Y E S \A Is Teekyuu now idolshit? \A Is Teekyuu now the K-on! prequel? \A Is Teekyuu now a Touhou spinoff? \A Am I a true anime fan now that I finally appreciate Teekyuu?";
+td.td1 span#tagLinks35370:after, td.td2 span#tagLinks35370:after{
+content: "\A That ED sure is something. \A \"If you're worried about nature, mankind going extinct is the best solution.\" Y E S \A Is Teekyuu now idolshit? \A Is Teekyuu now the K-On! prequel? \A Is Teekyuu now a Touhou spinoff? \A Am I a true anime fan now that I finally appreciate Teekyuu?";
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
