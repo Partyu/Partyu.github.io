@@ -30,6 +30,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Teekyuu 7 Specials*/
+td.td1 span#tagLinks35370:after, td.td2 span#tagLinks35370:after{
+content: "\A Finally some backstory for Flandre Scarlet. (I watched Teekyuu 9 before this so when she showed up I had no idea who she was. Though I didn't remember who Tomarin was either lol so maybe I just forgot about her. Just like Nasuno did!)";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Teekyuu 9*/
 td.td1 span#tagLinks35370:after, td.td2 span#tagLinks35370:after{
 content: "\A That ED sure is something. \A \"If you're worried about nature, mankind going extinct is the best solution.\" Y E S \A Is Teekyuu now idolshit? \A Is Teekyuu now the K-On! prequel? \A Is Teekyuu now a Touhou spinoff? \A Am I a true anime fan now that I finally appreciate Teekyuu?";
