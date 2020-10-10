@@ -7,7 +7,7 @@ font-size: 12px;
 }
 
 /*Hinamatsuri*/
-td.td1 span#tagLinks36296:after, td.td2 span#tagLinks36296:after{
+td.td1 span#tagLinks36296:hover:after, td.td2 span#tagLinks36296:hover:after{
 content: "\A Hondo Kaede has such a pretty voice! \A The delicate linework combined with the strangely detailed and grounded animation works wonders to legitimize the unpredictable narrative and breakneck tone shifts as real and entirely sincere. Also this is legit my mom's favorite anime, she thinks it's a 10/10 lol.";
 white-space: pre-wrap;
 color: #3b7ddb;
