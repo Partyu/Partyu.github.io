@@ -62,6 +62,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Makura no Danshi*/
+td.td1 span#tagLinks30705:after, td.td2 span#tagLinks30705:after{
+content: "\A I appreciate how creative this series gets with finding situations where the self-insert is sleepy, but, unfortunately, none of the boys are hot, cute, or cool lol. Series like these are only good for finding more seiyuu. \A This anime basically only has sound for the character's voices and it's really weird because I keep thinking I accidentally muted.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*One Room Second Season*/
 td.td1 span#tagLinks36431:after, td.td2 span#tagLinks36431:after{
 content: "\A Man Impresses Girl by Showing Her How Well He Can Blow \A If only this was an actual romance and not a self-insert. \A tfw she puts the ring on the wrong hand \A ED 10 is the best one. OL Support Squad!";
