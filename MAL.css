@@ -62,6 +62,22 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Macross 25th Anniversary: All That VF Macross F Version*/
+td.td1 span#tagLinks5165:after, td.td2 span#tagLinks5165:after{
+content: "\A The music is better in this one. Rock on, Sheryl Nome! \A I almost thought those images of Ranka and Sheryl were diagetic lol. Imagine an actual VF in the Macross Universe with Ranka's face painted on it. (Wait, I don't need to imagine it. It happened.)";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Macross 25th Anniversary: All That VF Macross Zero Version*/
+td.td1 span#tagLinks5164:after, td.td2 span#tagLinks5164:after{
+content: "\A Looks like toys photographed in front of a poster print out";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Macross Fufonfia*/
 td.td1 span#tagLinks4939:after, td.td2 span#tagLinks4939:after{
 content: "\A https://www.nicovideo.jp/watch/sm3968936 \A https://www.nicovideo.jp/watch/sm4538900 \A https://www.nicovideo.jp/watch/sm4897183 \A Fear the wrath of Klan. \A The endcard where Ranka holds a toy VF is pretty cute. \A yo Alto in a suit tho?";
