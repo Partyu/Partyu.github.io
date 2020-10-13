@@ -140,6 +140,14 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+  
+/*The iDOLM@STER Live For You!*/
+td.td1 span#tagLinks4033:after, td.td2 span#tagLinks4033:after{
+content: "\A Very strange to see these girls drawn in such a simplified style. \A WTF MIKI LITERALLY DRUGGED HER FRIENDS. LOCK HER UP. No wonder she wasn't in Xenoglossia.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
 
 /*Usakame*/
 td.td1 span#tagLinks32454:after, td.td2 span#tagLinks32454:after{
