@@ -140,6 +140,15 @@ content: "\A This show is fucking amazing. I might seriously have to give it a 1
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
+}
+
+/*Skip Beat!*/
+td.td1 span#tagLinks4722:after, td.td2 span#tagLinks4722:after{
+content: "\A The chins... \A Bruh Sho's a fucking snake )";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
 
 /*Takamiya Nasuno Desu!: Teekyuu Spin-off*/
 td.td1 span#tagLinks28861:after, td.td2 span#tagLinks28861:after{
