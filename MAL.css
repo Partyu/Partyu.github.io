@@ -1,3 +1,4 @@
+/*
 /*TEMPLATE*/
 td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
 content: "\A ";
@@ -5,6 +6,7 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+*/
 
 /*Bakemono no Ko*/
 td.td1 span#tagLinks28805:after, td.td2 span#tagLinks28805:after{
