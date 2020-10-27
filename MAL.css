@@ -8,6 +8,14 @@ font-size: 12px;
 }
 */
 
+/*Ayakashi: Japanese Classic Horror*/
+td.td1 span#tagLinks586:after, td.td2 span#tagLinks586:after{
+content: "\A OP is hilariously out of place, ED and OST are good. \A I always appreciate live action footage in anime.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Bakemono no Ko*/
 td.td1 span#tagLinks28805:after, td.td2 span#tagLinks28805:after{
 content: "\A Hosoda's such a furry lmao, respect. \A It's cool how by the time the movie is halfway through we've spent so much time in the 'beast world' that the 'human world' has become the 'unknown' which hero Kyuuta traverses into (though I don't really relate to him wanting to go back). \A Ichirouhiko's got such a cool and cute design, it's too bad he went batshit. THAT SHOT OF HIM RUNNING THROUGH THE CROWD LOL. \A Imo, this was too slow-paced and the climax (and themes) are boring and predictable as fuck.";
@@ -75,6 +83,14 @@ font-size: 12px;
 /*Issho ni Training: Training with Hinako*/
 td.td1 span#tagLinks6392:after, td.td2 span#tagLinks6392:after{
 content: "\A Holy fuck, Hinako's canonical backstory is that she got isekai'd into being an anime character. \A This is just Burn Your Fat With Me... \A THE BOOB JIGGLE SOUND EFFECTS. THE BOOB JIGGLE CLOSE UP. I'M LOSING MY SHIT \A Bruh when she starts swapping into underwear and gym clothes outfits... And the sound files change from her counting to moans... Imagine if this was a customizable dress-up flash game lmao.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Jujutsu Kaisen (TV)*/
+td.td1 span#tagLinks40748:after, td.td2 span#tagLinks40748:after{
+content: "\A Why are none of the normies weirded out by MC's freakish athletic abilities? Nobody even pants when they run, so maybe this world is just fucked like that. \A cool OP visuals, feels a lot longer than 1:30 for some reason lol \A The thick, ink-like lines are so pretty. \A The flashback dialogue is really unneccessary LMAO \A I appreciate the dedication to drawing the guys' eyelashes";
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
