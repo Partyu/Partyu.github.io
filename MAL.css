@@ -82,6 +82,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Haikyuu!! Movie 2: Shousha to Haisha*/
+td.td1 span#tagLinks30364:after, td.td2 span#tagLinks30364:after{
+content: "\A vs. Dateko was as boring as the first movie (ignoring the epic chanting), but vs. Aoba Jousai was surprisingly entertaining. It's fun to see how fast the characters and teams adapt to each others' tactics. I like Sugawara and Kageyama's foiling and I still love the unexpected loss. Though Oikawa as annoying and dislikeable as ever lmao. \A This movie, I really started noticing the music. It's really good! I feel like I never noticed it while watching the series lol.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Hinamatsuri*/
 td.td1 span#tagLinks36296:after, td.td2 span#tagLinks36296:after{
 content: "\A Hondo Kaede has such a pretty voice! \A The delicate linework combined with the strangely detailed and grounded animation works wonders to legitimize the unpredictable narrative and breakneck tone shifts as real and entirely sincere. Also this is legit my mom's favorite anime, she thinks it's a 10/10 lol.";
