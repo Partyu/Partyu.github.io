@@ -346,6 +346,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Tamashii Insert*/
+td.td1 span#tagLinks34795:after, td.td2 span#tagLinks34795:after{
+content: "\A \A Obligatory \"the manga is better\" \A EW THE ASSHOLES EW WHAT THE FUCK \A Bro how is he gonna clean up? Why did they stop animating after that? Lemme see him freak out and try his best to redress her and clean the couch before she wakes up LOL \A Why the hell are they hiking their school uniform skirts so high up? Surely they would get told off my the teachers, right? Maybe everybody in this world is a boob man. \A Wtf is the pissing scene? God why? Sorry, I lied, I hate this manga. \A Kitsune-kamisama scene isn't as hot when she can't shapeshift... I'm kind of disappointed with this adaptation.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Teekyuu 7 Specials*/
 td.td1 span#tagLinks32817:after, td.td2 span#tagLinks32817:after{
 content: "\A Finally some backstory for Flandre Scarlet. (I watched Teekyuu 9 before this so when she showed up I had no idea who she was. Though I didn't remember who Tomarin was either lol so maybe I just forgot about her. Just like Nasuno did!)";
