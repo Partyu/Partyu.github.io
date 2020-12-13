@@ -282,6 +282,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Oide yo! Mizuryuu Kei Land*/
+td.td1 span#tagLinks35581:after, td.td2 span#tagLinks35581:after{
+content: "\A return to monke \A The music is so loud, it drowns out the characters' voices. \A The censorship kind of ruins it... \A I never really liked this series' art designs and character designs, and they're even more garish and tacky in color.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*One Room Third Season*/
 td.td1 span#tagLinks41364:after, td.td2 span#tagLinks41364:after{
 content: "\A I'd totally buy Akira's carrot pen if they released it as merch. And Akira's seiyuu, Tomita Miyu, has a nice voice! \A Didn't realize this was currently airing lol.";
