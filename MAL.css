@@ -178,6 +178,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kokoro ga Sakebitagatterunda.*/
+td.td1 span#tagLinks28725:after, td.td2 span#tagLinks28725:after{
+content: "\A \A I would hate it if I had to go to this school and wear its all-white uniform... \A It really bothers me that he isn't even good at singing lmfao. Totally off-tune... \A I feel like this would work better if it was an actual live musical stageplay, and you could pull the Gesamtkunstwerk card. As it is, the characters and their struggles aren't really engaging, so I'm just left with a shitty cringe comedy where I can laugh at these teenagers' weird mannerisms and rage at Jun's incompetent parents. The movie gets significantly better in the last thirty minutes, but it's such a slog to get to that point. \A I'm sorry but I literally don't know wtf is going on with Dai-chan's side story, I couldn't pay attention to it at all. Nito's side story is more comprehendable but it's still really boring and frustrating to watch. \A WHY IS DAI-CHAN'S FACE SO FUCKED UP \A It really bothers me that Sakagami says that the music room is soundproof when we're constantly shown shots that, if diagetic, imply the opposite. \A dat engrish insert song tho. Hilarious that the subbers basically had to translate it from broken English to English. \A Yeah, just watch Kotoura-san instead.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*K-On!!: Ura-On!!*/
 td.td1 span#tagLinks9203:after, td.td2 span#tagLinks9203:after{
 content: "\A Yui and Sawako are kind of horrifying. Sawako can't even open her mouth to scream... \A The way they animate the girls being blobs and blobbing around lol. Talk about squish and stretch \A Azunyanyanyanyanyan. \A Please let Mugi conquer the world. \A LET THE KEIONS RAP";
