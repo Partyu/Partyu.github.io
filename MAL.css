@@ -370,6 +370,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Taisei Kensetsu: Singapore*/
+td.td1 span#tagLinks38065:after, td.td2 span#tagLinks38065:after{
+content: "\A The sad story of a girl forced to put her work over her friends... also swipe keyboards are cool";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Takamiya Nasuno Desu!: Teekyuu Spin-off*/
 td.td1 span#tagLinks28861:after, td.td2 span#tagLinks28861:after{
 content: "\A Yeah, I can see why this got cancelled. (The OP is actually okay though.) \A How many fetishes is Nasuno trying to give this poor man?";
