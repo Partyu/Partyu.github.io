@@ -52,8 +52,14 @@ font-size: 12px;
 td.td1 span#tagLinks41468:after, td.td2 span#tagLinks41468:after{
 content: "\A Everyone say it with me: Fuck Balgo. \A Like I guess the main characters are pretty hot and Noel's eyefucking the audience 24/7 but this shit is boring as hell. Very nice visuals with thin, wispy lineart and bold, solid coloring, and the setting is mildly interesting, but I couldn't care less about the story and characters. Seriously, I want to get engrossed in this beautiful, magical world, but all I can think while watching this is, \"I don't care.\" \A At least we have lesbian Hayami Saori uwu \A Bruno's spray-painted magic circles are really cool. His moving skellyman mask too, but imagine if he was a mouthbreather. \A Crown Council more like Clown Council \A Real talk how did they get through that entire explosion-filled fight scene without any clothing damage. Once you see the first shot of Cinderella absolutely ass-blasting Reverse London and the reaction shot of the characters just... not really caring about how ANYONE might've died... It just feels like it's MEANT to be high tension but we're barely shown the actual effects of anything that happens, so who gives a shit?";
 white-space: pre-wrap;
-  
-  
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Denpa-teki na Kanojo*/
+td.td1 span#tagLinks5177:after, td.td2 span#tagLinks5177:after{
+content: "\A I'm not sure if I trust any anime that drops the word \"tsundere\" in its dialogue. \A How does she pick up all these clues with her hair constantly blocking her vision? When she eats ramen how badly does her hair stick to her forehead from the sweat and steam? Lol. But real talk, no girl whose cuteness increases that much when she parts her bangs would just leave her hair hanging in front of her head 24/7, especially when they'd be so inconvenient irl, unless she's been sexually abused and can't handle being seen as attractive. (Is my suspension of disbelief really gonna break over hair of all things? One of my favorite shows is Shiki btw LOL) \A Delusional characters aren't interesting until we at the very least see the reasons for their delusions, and these characters' reasons aren't very good at all... \A Episode 2 is more interesting but still not very good. Meh, the director did as good as he could with what he was given.";
+white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
