@@ -307,6 +307,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Keifuku-san*/
+td.td1 span#tagLinks36156:after, td.td2 span#tagLinks36156:after{
+content: "\A Pretty cute set design and I love the colors, though they are a bit washed out at times. \A It's too bad the CGI looks fucking weird and doesn't have enough energy. \A I love Keifuku-san's rail-crossing-colored gohei \A kinda asmr";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kimi no Suizou wo Tabetai*/
 /*I want to eat your pancreas*/
 td.td1 span#tagLinks36098:after, td.td2 span#tagLinks36098:after{
