@@ -64,6 +64,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Baccano! Specials*/
+td.td1 span#tagLinks3901:after, td.td2 span#tagLinks3901:after{
+content: "\A will rewatch subbed";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Bakemono no Ko*/
 td.td1 span#tagLinks28805:after, td.td2 span#tagLinks28805:after{
 content: "\A Hosoda's such a furry lmao, respect. \A It's cool how by the time the movie is halfway through we've spent so much time in the 'beast world' that the 'human world' has become the 'unknown' which hero Kyuuta traverses into (though I don't really relate to him wanting to go back). \A Ichirouhiko's got such a cool and cute design, it's too bad he went batshit. THAT SHOT OF HIM RUNNING THROUGH THE CROWD LOL. \A Imo, this was too slow-paced and the climax (and themes) are boring and predictable as fuck.";
