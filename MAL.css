@@ -152,6 +152,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Evangelion Shito, Hakata Shuurai*/
+td.td1 span#tagLinks41030:after, td.td2 span#tagLinks41030:after{
+content: "\A Decisive Battle is such a fucking banger \A This is really fucking cool \A Wish we could get these for more of the Angels. Just maybe not the mindrape one lol.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Flip Flappers*/
 td.td1 span#tagLinks32979:after, td.td2 span#tagLinks32979:after{
 content: "\A Best girl is Papikana, I think? \A I want to like this, I really do. But outside of its production value and sheer creativity it's mediocre as fuck. The second half of this show is built on the shaky foundation of Papika's and Cocona's relationship, which doesn't really get any farther than \"You'll be invested in this, they're cute lesbians right? You like cute lesbians right???\" It's boring at best and creepy at worst... Even episode 7 just ends up reminding me of how many ways their dynamic could be made more interesting...";
