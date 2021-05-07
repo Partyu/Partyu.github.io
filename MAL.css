@@ -331,6 +331,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kanamewo*/
+td.td1 span#tagLinks32287:after, td.td2 span#tagLinks32287:after{
+content: "\A Background art is kinda amateur hour. Most of it looks unpolished and muddy as shit. The ones with actual linework are better. \A I coulda sworn I've see this before lmao. Maybe the character design? \A Idkman, I'm not feeling the romance. I don't really get why this human fell in love with this slimegirl or vice versa, since we don't see enough of their personalities to understand why one would be attracted to the other. Maybe I'm not lolicon or monsterfucker enough. (Or humanfucker enough) \A I feel like this needs more context. In hindsight the shots of the trees getting torn down foreshadow slimegirl's death enough, but everything else is lol";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
