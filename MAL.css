@@ -782,6 +782,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Tenkou Kotofumi*/
+td.td1 span#tagLinks32297:after, td.td2 span#tagLinks32297:after{
+content: "\A Nice music \A Is this discount Touhou lol?";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Tetsuwan Atom*/
 /*Astro Boy*/
 td.td1 span#tagLinks2747:after, td.td2 span#tagLinks2747:after{
