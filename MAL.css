@@ -614,6 +614,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*MahoYome*/
+td.td1 span#tagLinks36502:after, td.td2 span#tagLinks36502:after{
+content: "\A Cute. Like seriously, every character is so much more endearing than they were in the actual show. I think I love Silky now. \A Silky would crush Nintendogs \A bgm still wack as always ";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*MahoYome: Aisatsu*/
 td.td1 span#tagLinks36501:after, td.td2 span#tagLinks36501:after{
 content: "\A Cute lol.";
