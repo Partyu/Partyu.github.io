@@ -144,6 +144,15 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Cowboy Bebop: Yose Atsume Blues*/
+/*Cowboy Bebop Session XX*/
+td.td1 span#tagLinks4037:after, td.td2 span#tagLinks4037:after{
+content: "\A It's so weird to listen to this. I'm so used to the English dub. The audio quality doesn't help either lol. \A This is actually pretty good. It's just the characters giving monologues on random shit, but since you know it's them, it adds even more to their characterization.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Crystal Clear*/
 td.td1 span#tagLinks36136:after, td.td2 span#tagLinks36136:after{
 content: "\A That is one cute cat \A Nice smoke animation";
