@@ -963,6 +963,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Umi no Yuurei*/
+td.td1 span#tagLinks39875:after, td.td2 span#tagLinks39875:after{
+content: "\A Guessing this footage is from the movie? It's fairly pretty. Though it's weird to see the discrepency between the modern character art, the eyelashes, the painterly backgrounds, and the cgi water.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Usakame*/
 td.td1 span#tagLinks32454:after, td.td2 span#tagLinks32454:after{
 content: "\A Live action ED? Lmao? Seeing the seiyuu try to sell this anime and act excited about is... really... weird........ \A The color pencil effect, while somewhat unique for a super-limited-animation gag anime, looks really artificial and almost generic. I think I prefer the art style of Teekyuu more, but this show has some really good character designs in Sora and Miyako (though Ayako's design is boring). \A Kinako is best girl, I adore her low-pitched voice and off-color remarks. also KINAKO IN A SUIT <3 \A that Teekyuu crossover tho";
