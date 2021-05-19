@@ -802,6 +802,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Orange: Mirai*/
+td.td1 span#tagLinks34136:after, td.td2 span#tagLinks34136:after{
+content: "\A Man I just watched the series, all this recap is kinda ruining the emotional impact it had \A Is this movie basically for people who ship Naho with Suwa over Kakeru? I mean I guess it's cool that this series technically has two timelines to appease both sides LOL \A Do you like how the only difference between the two babies is their hair color \A Suwa is now a beta-orbiter for life, feelsbadman";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Planetarian: Hoshi no Hito*/
 /*Planetarian Movie*/
 td.td1 span#tagLinks33190:after, td.td2 span#tagLinks33190:after{
