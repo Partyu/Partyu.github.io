@@ -499,6 +499,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kara no Kyoukai 1: Fukan Fuukei*/
+td.td1 span#tagLinks2593:after, td.td2 span#tagLinks2593:after{
+content: "\A This movie is filled with colors I would otherwise consider pretty ugly, like those sickly yellows and greens, but their contrast with the reds of Shiki's leather jacket and the blood just makes the whole thing look so damn cool. \A Ice cream scene is kino \A This movie loves waxing poetic and I am here for it. It's the most aesthetic way to explain The Call of the Void anyone's ever come up with. Every individual human life is so fucking small, and what better way to express that than in a sprawling city that simultaenously feels inhabited and yet so, so empty?";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
