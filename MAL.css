@@ -507,6 +507,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kara no Kyoukai 2: Satsujin Kousatsu (Zen)*/
+td.td1 span#tagLinks3782:after, td.td2 span#tagLinks3782:after{
+content: "\A All I'm saying is that I would totally be into this serial killer split personality love story if it involved Akashi instead lol. Shiki's pretty intriguing herself but the movie is so weighed down by its slow pacing that's it's hard to enjoy the experience as a whole rather than as a few interesting conversations floating around in the middle of an aimless ocean. I love the main leitmotif though.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
