@@ -523,6 +523,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kara no Kyoukai 4: Garan no Dou*/
+td.td1 span#tagLinks4280:after, td.td2 span#tagLinks4280:after{
+content: "\A The weirdest physical therapy session I've ever seen \A Touko using her CIGARETTE AS A MAGIC WAND I fucking love her \A I'm always a sucker for the Important Haircuit trope whenever the character does it themselves \A This is one of the more story-relevant movies in the series, but honestly it feels fairly empty. I suppose that's sort of the point, what with SHIKI gone and Shiki teetering on the edge between life and death, but eh. Shiki killing her \"weak self\" and her old memories by literally stabbing her chest and ridding her body of an evil spirit is super cool though.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
