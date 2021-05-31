@@ -531,6 +531,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kara no Kyoukai 5: Mujun Rasen*/
+td.td1 span#tagLinks4282:after, td.td2 span#tagLinks4282:after{
+content: "\A Every idea in this movie is Partycore as fuck bye \A The exposition is a bit much on rewatches \A Aozaki sandwich \A ARAYA SOUREN IS A GAMER";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
