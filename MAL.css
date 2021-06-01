@@ -547,6 +547,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kara no Kyoukai 8: Shuushou*/
+td.td1 span#tagLinks6954:after, td.td2 span#tagLinks6954:after{
+content: "\A Derailing this movie's tags to talk about how much I love Akashi Seijuurou. Bro why couldn't Last Game end with a thirty minute conversation about Akashi's psychology? We were robbed :/ \A What really kills this is the echo effect tbh, it just makes it annoying to listen to";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kaze no Tani no Nausicaä*/
 td.td1 span#tagLinks572:after, td.td2 span#tagLinks572:after{
 content: "\A Imma be honest, I was totally multitasking while watching this so I barely know any of the plot beats. \A Also I swear I've heard some of the movie's BGM somewhere, but I can't place where. But what's with that godawful offtune singing during the ressurection scene? Can't take that shit seriously at all \A Ngl I don't really like the aesthetic of the character designs that much.";
