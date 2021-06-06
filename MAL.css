@@ -350,6 +350,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Hatsune Miku x Tetsuya Nomura*/
+td.td1 span#tagLinks28439:after, td.td2 span#tagLinks28439:after{
+content: "\A What's with the Statue of Liberty \A Colored eyebrows make sense but in this super-realistic art style they kind of freak me out";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Higashi no Eden: Air Communication*/
 /*Eden of the East: Air Communication*/
 /*Higashi no Eden Recap*/
