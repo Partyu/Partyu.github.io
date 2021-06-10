@@ -393,6 +393,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Hitotsubu ni Kawaranu Ai wo Komete*/
+td.td1 span#tagLinks18953:after, td.td2 span#tagLinks18953:after{
+content: "\A Voice acting isn't anime enough lol \A I hope that kid's adopted \A Mom has schizophrenia";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Houseki no Kuni*/
 /*ONA*/
 /*PV*/
