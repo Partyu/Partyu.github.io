@@ -1143,6 +1143,15 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Tetsuwan Atom Uchuu no Yuusha*/
+/*Astro Boy: The Brave in Space*/
+td.td1 span#tagLinks10342:after, td.td2 span#tagLinks10342:after{
+content: "\A The color palette of this film is very nice, desaturated blues, creams, and reds that pop off the screen but are still easy on the eyes. But ultimately it's just a compilation episode so meh.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
   
 /*The iDOLM@STER Live For You!*/
 td.td1 span#tagLinks4033:after, td.td2 span#tagLinks4033:after{
