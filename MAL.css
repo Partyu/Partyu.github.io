@@ -1154,6 +1154,15 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Tetsuwan Atom (1980)*/
+/*Astro Boy (1980)*/
+td.td1 span#tagLinks3044:after, td.td2 span#tagLinks3044:after{
+content: "\A The colorwork is so nice and pleasant and almost always features my favorite shade of red \A The idea that robots can only become human if they kill other living beings is a pretty interesting twist on Asimov's Laws. Even though it's not really used that much, if at all, lol. \A Atlas being a knight on a flying horse is exactly what I wanted from Utena and never got, god bless \A Atom's energy depletion is kind of cheap as a plot device \A Since Atlas' episodes are spaced out throughout the show it doesn't really feel like he's as big of a threat as he's meant to be. His last episode still made me cry though. \A Anyway, good shit, and it was really cool to see some of my favorite episodes from the 1963 series get a fresh coat of paint";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Tetsuwan Atom Uchuu no Yuusha*/
 /*Astro Boy: The Brave in Space*/
 td.td1 span#tagLinks10342:after, td.td2 span#tagLinks10342:after{
