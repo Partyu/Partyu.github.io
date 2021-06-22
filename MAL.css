@@ -428,6 +428,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Idol Densetsu Eriko*/
+td.td1 span#tagLinks2938:after, td.td2 span#tagLinks2938:after{
+content: "\A That feel when Truck-kun kills your parents \A They've gotta stop making rival characters hotter than the protagonists swear to god \A This is an ugly bastard show and it honestly makes me kind of uncomfortable \A They really fucked up the ED visuals";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*IDOLiSH7: Second Beat!*/
 td.td1 span#tagLinks37962:after, td.td2 span#tagLinks37962:after{
 content: "\A Lately I've become so impatient with anime that waste my time. i7 is an oasis in this desert of slow-paced anime, it moves at lightning speed through so many characters' arcs and intertwined relationships, all while constantly upping the stakes, heaping on plot threads, and throwing out reveals left and right. Admittedly the show does have some moments that might strain someone's suspension of disbelief, but the character writing is just so goddamn good that I can't help but be invested. \A Like ngl if this series had no CGI (discounting the OPs) it would def be a 9.";
