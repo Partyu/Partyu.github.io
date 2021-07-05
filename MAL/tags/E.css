@@ -1,0 +1,25 @@
+/*TEMPLATE*/
+/*
+td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
+content: "\A ";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+*/
+
+/*Egao*/
+td.td1 span#tagLinks2953:after, td.td2 span#tagLinks2953:after{
+content: "\A Boring lol. Idk if this YouTube video's just scuffed, but it's difficult to see what's going on with that overlay.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Evangelion Shito, Hakata Shuurai*/
+td.td1 span#tagLinks41030:after, td.td2 span#tagLinks41030:after{
+content: "\A Decisive Battle is such a fucking banger \A This is really fucking cool \A Wish we could get these for more of the Angels. Just maybe not the mindrape one lol.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
