@@ -1,0 +1,17 @@
+/*TEMPLATE*/
+/*
+td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
+content: "\A ";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+*/
+
+/*001*/
+td.td1 span#tagLinks29978:after, td.td2 span#tagLinks29978:after{
+content: "\A Ths is fucking cool, but I wish it wasn't just two animation loops repeated a bunch of times";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
