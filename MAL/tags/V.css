@@ -1,0 +1,17 @@
+/*TEMPLATE*/
+/*
+td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
+content: "\A ";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+*/
+
+/*Vanilla*/
+td.td1 span#tagLinks41039:after, td.td2 span#tagLinks41039:after{
+content: "\A Worst part of this music video is probably the character. Her skin color kind of clashes with her hair color, and her face is stupidly unemotive. Though I can forgive it because seeing her look three-dimensional is really cool. The three-dimensional architecture and the shadows of the leaves are reallllly cool... I wish more anime were ballsy enough to have shots with background animation like in this MV and Birdy the Mighty Decode ep 1.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
