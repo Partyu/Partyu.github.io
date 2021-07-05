@@ -1,0 +1,17 @@
+/*TEMPLATE*/
+/*
+td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
+content: "\A ";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+*/
+
+/*White Album*/
+td.td1 span#tagLinks4720:after, td.td2 span#tagLinks4720:after{
+content: "\A A harem show with a twist - the main character already has a idol girlfriend, but is unable to communicate with her. Yuki's single-mindedly focused on her career, and Touya's stretching himself too thin. He's constantly being used and manipulated by the other girls while also stringing them along, unable to say no to them and push them away due to his disconnection with Yuki. It's a story about deeply flawed and thoroughly pathetic people falling in love with each other, and that's kindaaa cool. \A The atmosphere totally carries this show. The depressive music, the unorthodox split-screens, the sense of wrongness permeating every episode. The character acting animation really shines through in showing their feelings without words - and the text on screen, the literal thoughts of the characters, do a great job at fleshing out otherwise obscure scenes through telling. I especially love the moments where the backgrounds and characters take on a more painterly aesthetic, the moments where the characters are at their weakest emotionally, where they cling to the idealized image of the people they feel they can depend on. If anything, watch this for the atmosphere alone. \A Also I really want to play the VN but I'm a dumbass and can't set up a virtual machine lmao";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
