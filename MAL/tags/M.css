@@ -56,15 +56,6 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
-/*Minky Momo in Yume ni Kakeru Hashi*/
-/*Minky Momo in the Bridge Over Dreams*/
-td.td1 span#tagLinks3462:after, td.td2 span#tagLinks3462:after{
-content: "\A That opening and ending BGMs are gorgeous \A The background art and setting sell this shit hard \A I'm usually a sucker for stuff like this but tbh none of the characters are interesting enough on their own to really make this a tearjerker. \A Finally, an anime character switches to contacts after continually dropping their glasses";
-white-space: pre-wrap;
-color: #3b7ddb;
-font-size: 12px;
-}
-
 /*Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami*/
 td.td1 span#tagLinks8972:after, td.td2 span#tagLinks8972:after{
 content: "\A bane of my existence #1 vs. bane of my existence #2, please let them kill each other, please \A Though personally I'm rooting for Creamy Mami lol. Her franchise has the better movies and aesthetic. \A Mami and Momo fucking bomb the shit out of an entire city for a play fight";
@@ -232,6 +223,24 @@ font-size: 12px;
 /*Mini-Chara Macross*/
 td.td1 span#tagLinks31494:after, td.td2 span#tagLinks31494:after{
 content: "\A Don't mind me, just realizing that I fucked up and missed some entries for Idoltrain. lol. (dying inside) \A I love this song so much...";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Minky Momo in Tabidachi no Eki*/
+/*Minky Momo: The Station of Your Memoriess*/
+td.td1 span#tagLinks6492:after, td.td2 span#tagLinks6492:after{
+content: "\A Tbh why aren't 1982 Momo and 1991 Momo listed as different characters on MAL? They're clearly two different people \A MOMO WITH A GUN \A \"Shelter full of abandoned children with no adult supervision\" is probably my favorite kids media trope. And in this case, the shelter is a train station, which is doubly cool. (It actually kind of reminds me of the train station from Kyousougiga) \A This is actually fucking baller. The instant you put suicide into your anime you've got me LMAO";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Minky Momo in Yume ni Kakeru Hashi*/
+/*Minky Momo in the Bridge Over Dreams*/
+td.td1 span#tagLinks3462:after, td.td2 span#tagLinks3462:after{
+content: "\A That opening and ending BGMs are gorgeous \A The background art and setting sell this shit hard \A I'm usually a sucker for stuff like this but tbh none of the characters are interesting enough on their own to really make this a tearjerker. \A Finally, an anime character switches to contacts after continually dropping their glasses";
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
