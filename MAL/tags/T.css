@@ -99,6 +99,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*The SoulTaker: Tamashii-gari - Komugi Daisakusen*/
+td.td1 span#tagLinks3849:after, td.td2 span#tagLinks3849:after{
+content: "\A Fucking spnsubs in my engsub nyaa category \A Komugi-chan is kawaii aesthetic personified tbh \A First ep is good, second ep is literally Magikarte's OP, third ep is unexpected mecha";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*This Is Not Blue*/
 td.td1 span#tagLinks42836:after, td.td2 span#tagLinks42836:after{
 content: "\A God yes I did paint animation so much. FUCK YES DRIFT DRIVING DRIFT DRIVING GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOD YES FUCKING EXQUISITE ";
