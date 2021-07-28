@@ -16,6 +16,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Naruto*/
+td.td1 span#tagLinks20:after, td.td2 span#tagLinks20:after{
+content: "\A Musashi Project's music for this series is so good \A ED1 > ED2 \A OP2 > OP1 \A Haku and Zabuza make me depressed \A Akira Ishida voicing a redhead driven insane by his tragic backstory... it was meant to be \A My brain isn't big enough to keep track of all these substitution jutsu";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Nekomonogatari: Kuro Recap*/
 td.td1 span#tagLinks38971:after, td.td2 span#tagLinks38971:after{
 content: "\A tfw no vampiric paleo-loli gf";
