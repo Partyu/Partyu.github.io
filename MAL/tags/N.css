@@ -47,3 +47,12 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Nichijou: Nichijou no 0-wa*/
+/*Nichijou OVA*/
+td.td1 span#tagLinks8857:after, td.td2 span#tagLinks8857:after{
+content: "\A Mio's a good friend when it counts \A After getting used to the format of the TV show, this OVA kind of drags";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
