@@ -40,6 +40,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Hand Shakers*/
+td.td1 span#tagLinks32981:after, td.td2 span#tagLinks32981:after{
+content: "\A Rebellion wishes it looked this good \A I unironically love the aesthetic of this show no cap. It just needs some reworked character designs and color correction, and more intentionality behind the \"photo collage\" style to look fantastic. \A What is the symbolic significance of the shumai \A We got yaoi-bait Hand Shakers, yuri-bait Hand Shakers plz \A Girlboss best girl \A I am incapable of parsing Makihara's voice as anything other than \"AMAZING\" \A Dub rewatch when?";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Hatsune Miku x Tetsuya Nomura*/
 td.td1 span#tagLinks28439:after, td.td2 span#tagLinks28439:after{
 content: "\A What's with the Statue of Liberty \A Colored eyebrows make sense but in this super-realistic art style they kind of freak me out";
