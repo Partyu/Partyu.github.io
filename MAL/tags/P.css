@@ -96,3 +96,11 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Pure Shield*/
+td.td1 span#tagLinks42748:after, td.td2 span#tagLinks42748:after{
+content: "\A That is not a very flattering butt shot. There's better fanservice in the show itself lmao";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
