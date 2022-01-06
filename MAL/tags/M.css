@@ -24,6 +24,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Macross F: Choujikuu Gekijou*/
+td.td1 span#tagLinks10361:after, td.td2 span#tagLinks10361:after{
+content: "\A No I am not sentence mining this \A MACROSS 7!!! BASARA!!!!!!! ORE NO UTA WO KIKE!!!!!!!!!!!!!!";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Macross F Movie 1: Itsuwari no Utahime*/
 td.td1 span#tagLinks5310:after, td.td2 span#tagLinks5310:after{
 content: "\A More Brera content lesgooooo \A I already don't really understand Frontier TV lore so this movie being set in an alternate universe makes it nearly incomprehensible \A Stop with the boing boings \A The movie format honestly just makes the characters and story structure look shallow. At least we get cool lives, and Yoko Kanno is still a god. Wish we got full Sunrise treatment for the mechafights tho \A The anti-gravity shots in the final fight are fucking awesome";
