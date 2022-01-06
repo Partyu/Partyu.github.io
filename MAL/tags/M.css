@@ -32,6 +32,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Macross F Music Clip Shuu: Nyankuri*/
+td.td1 span#tagLinks10050:after, td.td2 span#tagLinks10050:after{
+content: "\A A fantastic successor to Macross Flash Back 2012. \A I love all the new content, both the BTS scenes and the music videos. Gotta say, the way they've conveyed Sheryl's passion for music really makes me root for her more! \A More Sheryl backstory is always appreciated \A Macross Zero outta nowhere \A yuri route fans stay winning \A sumapho deculture cgi \A All of Sheryl's songs are fucking BOPS";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Macross Fufonfia*/
 td.td1 span#tagLinks4939:after, td.td2 span#tagLinks4939:after{
 content: "\A https://www.nicovideo.jp/watch/sm3968936 \A https://www.nicovideo.jp/watch/sm4538900 \A https://www.nicovideo.jp/watch/sm4897183 \A Fear the wrath of Klan. \A The endcard where Ranka holds a toy VF is pretty cute. \A yo Alto in a suit tho?";
