@@ -67,6 +67,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Slow Loop*/
+td.td1 span#tagLinks45425:after, td.td2 span#tagLinks45425:after{
+content: "\A God yes fishing anime \A I really like the text logo \A Why didn't they show her chopping off the head and pulling out the guts :( It might just be the slow pacing or me being tired but sometimes this show kinda sucks at visual teaching, I often have to go back and confirm what the characters said because the storyboarding doesn't do a very good job of supplementing their lines.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Snow Halation*/
 td.td1 span#tagLinks9930:after, td.td2 span#tagLinks9930:after{
 content: "\A Not a fan of the outfits tbh, I don't care for the pastel colors and the vests. They look cold... \A At this point the song is an osu! classic lmao. It's good but the singing isn't noteworthy. \A The choreography at 3:58 looks pretty silly, what with them just singing on the street with nobody around. \A T POSE \A Not as moe as their first MV tbh";
