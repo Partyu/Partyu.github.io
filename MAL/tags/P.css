@@ -73,6 +73,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Pretty Rhythm: Aurora Dream*/
+td.td1 span#tagLinks10257:after, td.td2 span#tagLinks10257:after{
+content: "\A I feel like the worst thing about this show is that the music isn't very good. Idk I liked Lilpri's better lol";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Private Eye Dol*/
 td.td1 span#tagLinks25983:after, td.td2 span#tagLinks25983:after{
 content: "\A A universe where holograms are commonplace and super-advanced AI assistants exist but the main characters still clown on \"computer geeks\" and unironically believe they're worse than panty snatcher perverts \A Just watch Perfect Blue lmfao";
