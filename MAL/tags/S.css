@@ -8,6 +8,14 @@ font-size: 12px;
 }
 */
 
+/*Sabiiro no Armor: Reimei*/
+td.td1 span#tagLinks39917:after, td.td2 span#tagLinks39917:after{
+content: "\A I assume this is what RWBY looks like to people who aren't used to it \A Honestly once you get over the animation this show is just fucking boring \A Deku and Tanjirou in one show? Crossover of the century \A I think I might keep watching just for the live action sections";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Sagashimono (ONA)*/
 td.td1 span#tagLinks40851:after, td.td2 span#tagLinks40851:after{
 content: "\A The wavy lineart is nice when things are constantly moving, but shots where the fps slows down don't look as cool as they do cheap. In general I do like it. Music is kinda ehhh though.";
