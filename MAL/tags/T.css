@@ -81,6 +81,15 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Tensai Ouji no Akaji Kokka Saisei Jutsu*/
+/*The Genius Prince's Guide to Raising a Nation Out of Debt*/
+td.td1 span#tagLinks47159:after, td.td2 span#tagLinks47159:after{
+content: "\A Some of the editing decisions in this anime are truly baffling, but I like to think of them as part of its charm \A Wish the waifus were put in proper armor during battle";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Tetsuwan Atom*/
 /*Astro Boy*/
 td.td1 span#tagLinks2747:after, td.td2 span#tagLinks2747:after{
