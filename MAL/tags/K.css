@@ -137,6 +137,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Kenja no Deshi wo Nanoru Kenja*/
+td.td1 span#tagLinks000000:after, td.td2 span#tagLinks000000:after{
+content: "\A God everyone in this show is so into their LARPing, it's really charming \A The power ceiling, scarcity of endgame players, and lack of teamwork in this MMO is kind of a bruh though \A I like to imagine that the shitty CGI is literally what the NPC models look like in game too. \A This first episode has some weird priorities, some of the exposition is both inefficient and boring. Digging that weird music-only scene though. \A Wtf, the premise of this series is that it goes from VR to pure R? Honestly that kind of ruins what little appeal this first episode had.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Kerorinpasu*/
 td.td1 span#tagLinks32293:after, td.td2 span#tagLinks32293:after{
 content: "\A My nihongo is not jouzu enough for this looping animation";
