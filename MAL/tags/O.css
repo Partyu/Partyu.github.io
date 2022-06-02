@@ -8,6 +8,14 @@ font-size: 12px;
 }
 */
 
+/*Odd Taxi*/
+td.td1 span#tagLinks46102:after, td.td2 span#tagLinks46102:after{
+content: "\A The banter is almost too witty for my suspension of disbelief. It might work better in a stage play or something more meta. \A The droning soundtrack just makes this show even more boring to watch rather than more realistic or tense. It feels like my viewing experience would've been greatly improved just by replacing the bgm with Death Note's, or going all in on the atmospheric noise. \A Cloud sharing kills ep4 for me \A Backstory in ep7 is so forced it feels like a parody (honestly not sure if it is or not) \A Yano is unbearable \A Something about the way violence is executed in this show makes it seem completely boring, ineffectual, and senseless. Honestly most of my annoyances with this show stem from it feeling so tryhardy. \A (At this point in time, Party intentionally spoiled herself for the entire show by reading its TVTropes page) \A I like how everything comes together, but honestly it was really boring going into it.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Oide yo! Mizuryuu Kei Land*/
 td.td1 span#tagLinks35581:after, td.td2 span#tagLinks35581:after{
 content: "\A return to monke \A The music is so loud, it drowns out the characters' voices. \A The censorship kind of ruins it... \A I never really liked this series' art designs and character designs, and they're even more garish and tacky in color.";
