@@ -121,3 +121,11 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Azumanga Daioh*/
+td.td1 span#tagLinks66:after, td.td2 span#tagLinks66:after{
+content: "\A Osaka is literally me and Yukari is literally Misato \A Chiyo is literally moe and Sakaki is literally moe gap \A Everyone in this show is moe";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
