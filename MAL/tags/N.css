@@ -56,3 +56,11 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Ninja Collection*/
+td.td1 span#tagLinks42260:after, td.td2 span#tagLinks42260:after{
+content: "\A Ninjas are cool and all but I feel that the Yami Shibai format really loses something by knowing that the protagonist always either gets saved or turns into a demon at the end. And I don't even really like Yami Shibai lol";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
