@@ -8,6 +8,15 @@ font-size: 12px;
 }
 */
 
+/*Chikyuugai Shounen Shoujo*/
+/*The Orbital Children*/
+td.td1 span#tagLinks37914:after, td.td2 span#tagLinks37914:after{
+content: "\A Not a fan of the character designs. SkyTuber chick is obnoxious and I don't really care for watching a bunch of kids make weird sounds as they float through space or whatever. I like the general design style of the setting but it's not enough to keep me invested when I don't care about the characters. Will try picking back up after I get around to watching Dennou Coil.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Christmas*/
 td.td1 span#tagLinks17245:after, td.td2 span#tagLinks17245:after{
 content: "\A Colors are too muddy, character design is just uncanny. Animation feels kinda lifeless, camera doesn't help either since it keeps fucking swinging around like it's got viewbobbing on. HER FACE LMAO.";
