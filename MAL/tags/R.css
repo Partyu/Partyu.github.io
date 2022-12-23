@@ -8,6 +8,14 @@ font-size: 12px;
 }
 */
 
+/*Re:Zero kara Hajimeru Isekai Seikatsu*/
+td.td1 span#tagLinks31240:after, td.td2 span#tagLinks31240:after{
+content: "\A tfw picked back up because of the Kadowkawa/Animester Emilia and Rem figures \A I kind of just dislike Subaru and his retarded screaming, which sucks cuz this show is so clearly setting up emotional moments that would hit so hard if it were any other protagonist \A it legitimately comes off as a comedy whenever they play that stupid time leap music LOL";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Rokuko-chan*/
 td.td1 span#tagLinks34425:after, td.td2 span#tagLinks34425:after{
 content: "\A I guess the streaky marker aesthetic is kinda cute? But imma be honest, I just watched this so I could follow-up on No.6 in that one forum game thread";
