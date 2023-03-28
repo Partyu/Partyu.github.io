@@ -287,3 +287,11 @@ white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
 }
+
+/*Kuroinu: Kedakaki Seijo wa Hakudaku ni Somaru*/
+td.td1 span#tagLinks11827:after, td.td2 span#tagLinks11827:after{
+content: "\A Vult's voice feels wrong. The VN gave me the impression of him being in his 30s but the anime's low, gravelly rendition makes him come off as an old man. \A Not to be a \"the VN is better\" person but the VN is better. The anime annoys me with how much weaker it portrays the women as being. It just gets rid of all of the character depth that was there before. \A GIVE OLGA HER CAPE \A I hope that in an alternate universe, Olga and Chloe are living a happy, peaceful domestic life together :(";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
