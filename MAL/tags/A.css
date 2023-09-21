@@ -57,6 +57,15 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Animation Seisaku Shinkou Kuromi-chan*/
+/*Animation Runner Kuromi*/
+td.td1 span#tagLinks1797:after, td.td2 span#tagLinks1797:after{
+content: "\A Sincere, heartfelt, and true to life, it perfectly captures the feeling of being an artist working on a huge project and the sense of fulfilment you get at seeing it finally get completed. Surprisingly emotional as well, and consistently energetic and fun the whole way through";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Anison Nippon*/
 td.td1 span#tagLinks32289:after, td.td2 span#tagLinks32289:after{
 content: "\A SICK AS FUCK \A PRETTY COLORS";
