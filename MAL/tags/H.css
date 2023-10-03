@@ -26,7 +26,7 @@ font-size: 12px;
 
 /*Haikyuu!! Movie 3: Sainou to Sense*/
 td.td1 span#tagLinks35110:after, td.td2 span#tagLinks35110:after{
-content: "\A Covers the best season :D though the interpersonal drama is more cringe than  I remember it being LMAO \A What the hell is that second Seijo chant \A \"He may be Mr. Refreshing, but his serves aren't refreshing at all,\" WHAT THE HELL IS THIS LINE LOL \A God the transparent netting looks so fucking stupid ";
+content: "\A Covers the best season :D though the interpersonal drama is more cringe than I remember it being LMAO \A What the hell is that second Seijo chant \A \"He may be Mr. Refreshing, but his serves aren't refreshing at all,\" WHAT THE HELL IS THIS LINE LOL \A God the transparent netting looks so fucking stupid ";
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
@@ -43,6 +43,14 @@ font-size: 12px;
 /*Hakozume: Kouban Joshi no Gyakushuu*/
 td.td1 span#tagLinks49519:after, td.td2 span#tagLinks49519:after{
 content: "\A I really wish I could get into this because I feel like the main characters' vitriolic anger towards criminals and rulebreakers has the potential to be entertaining, but this show just isn't very funny or engaging. Just watch Patlabor or something \A Fuji-san is the most based type of feminist and also literally me. Her running gag of constantly cussing out people under her breath is the best joke in the show purely because of how relatable it is. I wish she was in a better anime. \A The \"wholesome\" and \"dramatic\" moments are so phoned in and flat that I have a hard time believing they aren't jokes";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
+/*Hanarashi*/
+td.td1 span#tagLinks56790:after, td.td2 span#tagLinks56790:after{
+content: "\A I think this is confirmation I don't like Eve's voice because as soon as he started singing I completely lost interest. At least the aesthetic is cool so I can see myself plausibly enjoying it if I mute and put different BGM over it. Something by Shimotsuki Haruka maybe LOL";
 white-space: pre-wrap;
 color: #3b7ddb;
 font-size: 12px;
