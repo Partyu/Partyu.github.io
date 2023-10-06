@@ -8,6 +8,14 @@ font-size: 12px;
 }
 */
 
+/*Rail Romanesque*/
+td.td1 span#tagLinks40958:after, td.td2 span#tagLinks40958:after{
+content: "\A The concept of a bunch of traingirls trying to come up with train-inspired merchandise is cute and cool and basically the kind of autistic brainstorming I do while trying to come up with merch ideas in real life, but the anime moves so fast and is so dense with information that I can't parse any of it. Would be better if I knew anything about trains or Maitetsu.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Raison d'être*/
 /*raison d’etre*/
 td.td1 span#tagLinks40569:after, td.td2 span#tagLinks40569:after{
