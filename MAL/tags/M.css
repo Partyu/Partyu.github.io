@@ -330,6 +330,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Memories*/
+td.td1 span#tagLinks1462:after, td.td2 span#tagLinks1462:after{
+content: "\A Magnetic Rose is kino, it's exactly the kind of thing I love. Pure aesthetic liquid gold \A How does Stink Bomb even exist? I am so fucking glad it does though because its ridiculous concept is executed to absolute perfection. The definition of \"crack taken seriously\" \A Cannon Fodder is also good but less enjoyable imo. From the title alone you can tell exactly what it's going to be, and it never attempts to subvert your expectations. The lack of hard cuts does wonders to communicate the message of the movie, it makes you hold your breath, waiting for something to cut through the tension, but nothing can stop the immovable forward march of the horrific society that has become synonymous with life itself, so all-encompassing and everpresent that nary a person trapped by it can even think of revolution, their lives consumed by the single-minded thought of destruction of an enemy they can't even see, and by the end of the episode, even the viewer, blessed with an outside perspective, can barely muster hope for a better world..... yeah, dark stuff. It's no wonder it doesn't really follow conventions of narrative satisfaction. There are no heroes in this senseless world.";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Mini-Chara Macross*/
 td.td1 span#tagLinks31494:after, td.td2 span#tagLinks31494:after{
 content: "\A Don't mind me, just realizing that I fucked up and missed some entries for Idoltrain. lol. (dying inside) \A I love this song so much...";
