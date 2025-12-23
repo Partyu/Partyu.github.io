@@ -57,6 +57,14 @@ color: #3b7ddb;
 font-size: 12px;
 }
 
+/*Ani*Kuri15*/
+td.td1 span#tagLinks2832:after, td.td2 span#tagLinks2832:after{
+content: "\A makoto shinkai should make another cat movie. it's what his heart longs for \A at this point little more needs to said about how incredibly depressing it is that satoshi kon can never make another film \A gits 2.0's aesthetic suddenly makes a lot more sense lmao \A I fucking love transforming building robots \A attack of azuma is awesome btw let kimura shinji cook";
+white-space: pre-wrap;
+color: #3b7ddb;
+font-size: 12px;
+}
+
 /*Animation Seisaku Shinkou Kuromi-chan*/
 /*Animation Runner Kuromi*/
 td.td1 span#tagLinks1797:after, td.td2 span#tagLinks1797:after{
